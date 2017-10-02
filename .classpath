@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/hibernate-core-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/hibernate-ehcache-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="G:/Coding Stuff/Eclipse Workspace/LibraryManagement_hibernate/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
